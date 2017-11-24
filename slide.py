@@ -49,5 +49,5 @@ def convert_pdf(url, filename='Result.pdf'):
 
 if __name__ == "__main__":
     # url = raw_input('Slideshare URL : ')
-    url = 'https://www.slideshare.net/AlexandrePoletto/hive-hcatalog?qid=f97f015e-0cc9-4e56-ac5d-075e513fd0d8&v=&b=&from_search=11'
+    url = 'https://www.slideshare.net/gregchanan/search-onhadoopoc-bigdata'
     download_images(url)
